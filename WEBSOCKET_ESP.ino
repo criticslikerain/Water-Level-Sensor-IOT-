@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 
-const char* ssid = "GalaxyMJ";
-const char* password = "Alorica2028**";
+const char* ssid = "YOUR_SSID_HERE";
+const char* password = "YOUR_PASSWORD_HERE";
 
 const int waterSensorPin = 4; 
 
